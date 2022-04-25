@@ -1,3 +1,3 @@
-## web3 blog
+# web3 Blog
 
-This is from the Nader Dabit tutorial at (https://github.com/HarryKingdon/web3-blog.git)
+From the Nader Dabit tutorial at https://dev.to/edge-and-node/the-complete-guide-to-full-stack-web3-development-4g74
